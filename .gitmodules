@@ -1,0 +1,6 @@
+[submodule "GuessTheNumber"]
+	path = GuessTheNumber
+	url = https://github.com/jazicorn/GuessTheNumber.git
+[submodule "DragonCave"]
+	path = DragonCave
+	url = https://github.com/jazicorn/DragonCave.git
