@@ -4,10 +4,10 @@ Links to project(s) created while attending Pyramid Academy(Genspark)
 
 ## Projects
 
-### [DragonCave](DragonCave)
+### [DragonCave](https://github.com/jazicorn/DragonCave)
 
-### [GuessTheNumber](GuessTheNumber)
+### [GuessTheNumber](https://github.com/jazicorn/GuessTheNumber)
 
-### [Hangman](Hangman)
+### [Hangman](https://github.com/jazicorn/Hangman)
 
-### [Humans-VS-Goblins](Humans-VS-Goblins)
+### [Humans-VS-Goblins](https://github.com/jazicorn/Humans-VS-Goblins)
