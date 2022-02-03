@@ -1,12 +1,16 @@
 [submodule "GuessTheNumber"]
 	path = GuessTheNumber
 	url = https://github.com/jazicorn/GuessTheNumber.git
+	branch = main
 [submodule "DragonCave"]
 	path = DragonCave
 	url = https://github.com/jazicorn/DragonCave.git
+	branch = main
 [submodule "Humans-VS-Goblins"]
 	path = Humans-VS-Goblins
 	url = https://github.com/jazicorn/Humans-VS-Goblins.git
+	branch = main
 [submodule "Hangman"]
 	path = Hangman
 	url = https://github.com/jazicorn/Hangman.git
+	branch = main
