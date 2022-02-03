@@ -4,3 +4,9 @@
 [submodule "DragonCave"]
 	path = DragonCave
 	url = https://github.com/jazicorn/DragonCave.git
+[submodule "Humans-VS-Goblins"]
+	path = Humans-VS-Goblins
+	url = https://github.com/jazicorn/Humans-VS-Goblins.git
+[submodule "Hangman"]
+	path = Hangman
+	url = https://github.com/jazicorn/Hangman.git
