@@ -34,7 +34,8 @@ git commit -m "project <submodule> added"
 git push
 ``` 
 
-### Update Submodule (No Merge)
+### Update Submodule
+> ⚠️ *!!!Reminder!!!* **no** local editing of repositories ⚠️
 ```bash
 # 💡 *updates project from most current remote submodule commit*
 git submodule update --init --recursive --remote <submodule>
